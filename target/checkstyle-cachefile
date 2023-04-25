@@ -1,0 +1,5 @@
+#Thu Feb 09 15:01:45 EST 2023
+configuration*?=3B35F79976B5158D8ABBF64540A5AD750B9585C
+module-resource*?\:checkstyle-xpath-suppressions.xml=9CCDEC4F88A20545624B27A10A2F5F4DAB814DCB
+/Users/eamonhu/Desktop/cs665/Hw1/met-cs665-assignment-1-HUZZZW/src/main/java/edu/bu/met/cs665/example1/Person.java=1675384579404
+module-resource*?\:checkstyle-suppressions.xml=A4D7A38C5D3CAD57BE47479B5A4BCDFAB5A262B8
